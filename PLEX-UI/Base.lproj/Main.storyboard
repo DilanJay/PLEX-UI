@@ -21,7 +21,7 @@
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="WBy-Nw-oBo" userLabel="Button Stack View">
                                 <rect key="frame" x="70" y="230" width="274" height="230"/>
                                 <subviews>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="98P-vm-KAK">
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="98P-vm-KAK">
                                         <rect key="frame" x="0.0" y="0.0" width="274" height="50"/>
                                         <color key="backgroundColor" systemColor="systemGrayColor"/>
                                         <constraints>
@@ -32,7 +32,7 @@
                                             <imageReference key="image" image="applelogo" catalog="system" renderingMode="original"/>
                                         </state>
                                     </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YLj-zI-rxZ">
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YLj-zI-rxZ">
                                         <rect key="frame" x="0.0" y="60" width="274" height="50"/>
                                         <color key="backgroundColor" name="AccentColor"/>
                                         <constraints>
@@ -43,7 +43,7 @@
                                             <imageReference key="image" image="square.and.arrow.up.fill" catalog="system" renderingMode="original"/>
                                         </state>
                                     </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qRM-G3-dmP">
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qRM-G3-dmP">
                                         <rect key="frame" x="0.0" y="120" width="274" height="50"/>
                                         <color key="backgroundColor" systemColor="systemPinkColor"/>
                                         <constraints>
@@ -54,7 +54,7 @@
                                             <imageReference key="image" image="pencil.circle" catalog="system" renderingMode="original"/>
                                         </state>
                                     </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p3m-a4-fei">
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p3m-a4-fei">
                                         <rect key="frame" x="0.0" y="180" width="274" height="50"/>
                                         <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                         <constraints>
